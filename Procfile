@@ -1,1 +1,1 @@
-web: gunicorn MSA_test.wsgi --log-file -
+web: gunicorn MSA.wsgi --log-file -
